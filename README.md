@@ -3,7 +3,7 @@
 ### This is the sub-sub-header of the test README file
 **Some bold text here.**
 > And a blockquote.
-# H2 Some code right here
+## Some code right here
 ```
 int main()
 {
@@ -11,3 +11,4 @@ int main()
   return(0);
 }
 ```
+*An italicized sentence to end the document.*
